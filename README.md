@@ -26,7 +26,7 @@
 ### 📧 Social & Contact
 <div>
 <a href="mailto:tnp.pratikgurjar@gmail.com" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://pratikgurjar.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://pratikgurjar.github.io" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pratik-gurjar" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/pratikgurjar_" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/pratik_gurjar" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
