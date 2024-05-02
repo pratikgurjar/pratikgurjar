@@ -26,7 +26,7 @@
 ### 📧 Social & Contact
 <div>
 <a href="mailto:tnp.pratikgurjar@gmail.com" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://pratikgurjar.github.io/portfolio/" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://pratikgurjar.github.io" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pratik-gurjar" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/pratikgurjar_" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/pratik_gurjar" target="_blank" rel="noreferrer"> <img alt="Pratik Gurjar's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -41,10 +41,20 @@
 <br>
 
 ---
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pratikgurjar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratikgurjar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikgurjar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📈 GitHub Activity Graph:
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/pratikgurjar#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=pratikgurjar&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/pratikgurjar#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=pratikgurjar&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/pratikgurjar#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikgurjar&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikgurjar&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/pratikgurjar#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikgurjar&theme=default"/></a><a href="https://github.com/pratikgurjar#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikgurjar&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/pratikgurjar#gh-light-mode-only"><img src="https://raw.githubusercontent.com/pratikgurjar/pratikgurjar/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/pratikgurjar#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/pratikgurjar/pratikgurjar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
 
 ---
 
